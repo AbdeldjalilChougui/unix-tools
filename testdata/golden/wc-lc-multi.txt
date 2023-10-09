@@ -1,0 +1,4 @@
+  9  76 notes.txt
+ 11 473 data.json
+ 20 549 total
+[exit 0]

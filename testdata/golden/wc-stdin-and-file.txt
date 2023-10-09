@@ -1,0 +1,4 @@
+      1 -
+      9 notes.txt
+     10 total
+[exit 0]

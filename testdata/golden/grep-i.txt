@@ -1,0 +1,5 @@
+notes.txt:hello
+notes.txt:  indented hello
+README.md:hello world
+README.md:Hello again
+[exit 0]

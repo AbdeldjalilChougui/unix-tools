@@ -1,0 +1,7 @@
+1:hello
+5:  indented hello
+6:a(b|c)
+7:ax+y
+8:abc
+9:TODO: write more
+[exit 0]

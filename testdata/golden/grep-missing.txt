@@ -1,0 +1,4 @@
+notes.txt:foo
+notes.txt:foobar
+notes.txt:fooo bar
+[exit 2]

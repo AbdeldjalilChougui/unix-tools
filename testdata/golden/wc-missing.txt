@@ -1,0 +1,3 @@
+ 9 13 76 notes.txt
+ 9 13 76 total
+[exit 1]

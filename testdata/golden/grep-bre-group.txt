@@ -1,0 +1,4 @@
+foo
+foobar
+fooo bar
+[exit 0]

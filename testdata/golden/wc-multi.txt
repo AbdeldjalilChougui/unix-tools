@@ -1,0 +1,5 @@
+  9  13  76 notes.txt
+  5   9  44 README.md
+  5   7  46 src/main.go
+ 19  29 166 total
+[exit 0]

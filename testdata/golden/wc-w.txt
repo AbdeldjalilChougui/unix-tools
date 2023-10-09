@@ -1,0 +1,4 @@
+  9 README.md
+ 13 notes.txt
+ 22 total
+[exit 0]

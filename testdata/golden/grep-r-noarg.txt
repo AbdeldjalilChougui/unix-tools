@@ -1,0 +1,4 @@
+docs/guide.md:TODO: screenshots
+notes.txt:TODO: write more
+src/util/strings.go:// TODO: more helpers
+[exit 0]

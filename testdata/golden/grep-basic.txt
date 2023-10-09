@@ -1,0 +1,3 @@
+hello
+  indented hello
+[exit 0]

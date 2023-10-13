@@ -1,0 +1,2 @@
+{"name":"Amina","city":"Oran"}
+[exit 0]

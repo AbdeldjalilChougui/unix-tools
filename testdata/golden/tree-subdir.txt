@@ -1,0 +1,11 @@
+src
+├── main.go
+└── util
+    ├── strings.go
+    └── strings_test.go
+docs
+├── draft.md
+└── guide.md
+
+3 directories, 5 files
+[exit 0]

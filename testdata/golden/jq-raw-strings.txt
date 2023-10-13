@@ -1,0 +1,4 @@
+Oran
+Algiers
+Constantine
+[exit 0]

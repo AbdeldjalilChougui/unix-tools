@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "name": "Amina",
+      "age": 34,
+      "city": "Oran",
+      "tags": [
+        "admin",
+        "dev"
+      ]
+    },
+    {
+      "name": "Karim",
+      "age": 17,
+      "city": "Algiers",
+      "tags": []
+    },
+    {
+      "name": "Lina",
+      "age": 41,
+      "city": "Constantine",
+      "tags": [
+        "dev"
+      ],
+      "email": null
+    }
+  ],
+  "meta": {
+    "version": "1.0",
+    "count": 3,
+    "ratio": 0.10,
+    "big": 1E+2,
+    "pi": 3.14159,
+    "nested": {
+      "z": 1,
+      "a": {
+        "deep": true
+      }
+    }
+  },
+  "weird": "tab\there \"quoted\" back\\slash é \u0001",
+  "empty": {},
+  "list": []
+}
+[exit 0]

@@ -1,0 +1,14 @@
+.
+├── README.md
+├── app.log
+├── build
+├── data.json
+├── docs
+├── keep.log
+├── notes.txt
+├── secrets.txt
+├── src
+└── unicode.txt
+
+4 directories, 7 files
+[exit 0]

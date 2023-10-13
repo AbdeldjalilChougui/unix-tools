@@ -1,0 +1,3 @@
+["Algiers","Constantine","Oran"]
+["Constantine","Algiers","Oran"]
+[exit 0]

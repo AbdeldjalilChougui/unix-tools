@@ -1,0 +1,2 @@
+"tab\there \"quoted\" back\\slash é \u0001"
+[exit 0]

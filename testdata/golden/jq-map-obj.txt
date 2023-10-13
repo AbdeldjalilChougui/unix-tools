@@ -1,0 +1,15 @@
+[
+  {
+    "who": "Amina",
+    "adult": true
+  },
+  {
+    "who": "Karim",
+    "adult": false
+  },
+  {
+    "who": "Lina",
+    "adult": true
+  }
+]
+[exit 0]

@@ -1,0 +1,3 @@
+Amina
+Lina
+[exit 0]

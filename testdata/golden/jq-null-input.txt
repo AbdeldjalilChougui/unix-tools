@@ -1,0 +1,2 @@
+["number","string","null","boolean"]
+[exit 0]

@@ -1,0 +1,15 @@
+.
+├── README.md
+├── data.json
+├── docs
+│   └── guide.md
+├── keep.log
+├── notes.txt
+├── src
+│   ├── main.go
+│   └── util
+│       └── strings.go
+└── unicode.txt
+
+4 directories, 8 files
+[exit 0]

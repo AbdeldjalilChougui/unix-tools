@@ -1,0 +1,2 @@
+[{"key":"z","value":1},{"key":"a","value":{"deep":true}}]
+[exit 0]
